@@ -1,3 +1,14 @@
+""""
+Group: Chaya Mizrachi ID: 214102584,
+        Yael Siman-Tov ID:325181295,
+        Linoy Nisim Pur ID: 324029685
+Source Git: lihiSabag https://github.com/lihiSabag/Numerical-Analysis-2023.git
+GitHub of this project: https://github.com/YaelSimanTov/Analiza-nomerit-work3.git
+ """
+
+
+
+
 import numpy as np
 import sympy as sp
 import math
